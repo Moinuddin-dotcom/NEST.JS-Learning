@@ -29,6 +29,12 @@
 nest g controller <controller-name>
 ```
 
+## To Create a Service
+
+```bash
+nest g service <service-name>
+```
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
